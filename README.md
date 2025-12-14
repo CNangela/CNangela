@@ -1,4 +1,4 @@
-## Salve a tutti!
+## Ciao a tutti!
 Sono una studentassa al terzo anno di informatica presso l'Università di Padova 
 
 <!--
