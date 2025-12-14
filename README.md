@@ -1,4 +1,5 @@
-## Hi there 👋
+## Salve a tutti!
+Sono una studentassa al terzo anno di informatica presso l'Università di Padova 
 
 <!--
 **CNangela/CNangela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
